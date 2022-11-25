@@ -24,6 +24,9 @@
 3. change color & font size as you like
 4. click the **Export** button to download the image
 
+## Dev in Vercel
+setting -> node version -> must select 14.x
+
 ## TODO
 
 - share it on Facebook
